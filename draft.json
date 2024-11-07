@@ -1,0 +1,172 @@
+{
+    "height": "1200",
+    "storymap": {
+      "call_to_action": true,
+      "call_to_action_text": "Explore Stories",
+      "map_as_image": true,
+      "map_type": "zoomify",
+      "slides": [
+        {
+          "background": {
+            "color": "#fff",
+            "opacity": 100
+          },
+          "date": "",
+          "location": {
+            "line": true
+          },
+          "media": {
+            "caption": "",
+            "credit": "",
+            "url": ""
+          },
+          "text": {
+            "headline": "Stories from Hara",
+            "text": "Hara is located on the peripheries of the Mookambika Wildlife Forest Reserve. Nestled within the deciduous forests of the Western Ghats, there is a steep mud road that connects it to nearby villages. On the satellite maps, Hara is quite identifiable. From a geospatial view, the built environment in Hara is quite unique - the 20 or so houses form an elliptical periphery around the fields, plantations and trees. My curiosities peaked when I first got a glimpse of Hara (alas, on a satellite map). Fortunately, I got the opportunity to be in Hara, meet the people who live there and learn their stories."
+          },
+          "type": "overview"
+        },
+        {
+          "date": "",
+          "location": {
+            "lat": -36.597889133070204,
+            "line": false,
+            "lon": -39.90234375,
+            "use_custom_marker": false,
+            "zoom": 3
+          },
+          "media": {
+            "caption": "",
+            "credit": "",
+            "url": ""
+          },
+          "text": {
+            "headline": "Cricket with Sashi",
+            "text": "We were greeted in Hara by Sashi, a 10-12 year old boy who was perhaps looking for someone to play cricket with. He had a self-made bat and a rubber ball. He seemed very excited and curious to see us. We played cricket with him outside his home as we got to know each other. But soon enough he was called by his mother and he had to go."
+          }
+        },
+        {
+          "date": "",
+          "location": {
+            "lat": -7.710991655433217,
+            "line": true,
+            "lon": -6.621094644069671,
+            "use_custom_marker": false,
+            "zoom": 3
+          },
+          "media": {
+            "caption": "",
+            "credit": "",
+            "url": ""
+          },
+          "text": {
+            "headline": "Tales of Daivas",
+            "text": "For many people we spoke to near Keradi, the Kannada film 'Kantara' is a common talking point. They told us about the shooting spots around their village with a sense of pride. The film is based on the tale of Panjurli, one of the daivas of the people in these villages. Daiva Kola is a ritualistic performance that takes place at a site called Daivasthana, where the whole village comes. In Hara we saw three Daivasthanas - Bobbarya, Guliga and Panjurli. "
+          }
+        },
+        {
+          "date": "",
+          "location": {
+            "lat": 16.130262012034756,
+            "line": true,
+            "lon": -35.44921964406967,
+            "use_custom_marker": false,
+            "zoom": 3
+          },
+          "media": {
+            "caption": "",
+            "credit": "",
+            "url": ""
+          },
+          "text": {
+            "headline": "Forest Livelihoods",
+            "text": "We observed there was a patch of land where woodcutting was happening. There were mostly sheesham trees that were observed to be cut. We wondered if the wood is used domestically or commercially. Or is this a common livelihood or a household resource? "
+          }
+        },
+        {
+          "date": "",
+          "location": {
+            "lat": 25.64152637306577,
+            "line": true,
+            "lon": 13.53515625,
+            "use_custom_marker": false,
+            "zoom": 3
+          },
+          "media": {
+            "caption": "",
+            "credit": "",
+            "url": ""
+          },
+          "text": {
+            "headline": "Our Field Guide",
+            "text": "Almost all households had a pet dog guarding the premises. We found ourselves mostly running away from dogs. But we did make friends with one very energetic pup. We followed this one as he showed us around the hamlet. Later on, we met the pet's owners who had been looking for the dog for sometime. "
+          }
+        },
+        {
+          "date": "",
+          "location": {
+            "lat": 56.26776108757582,
+            "line": true,
+            "lon": -9.84375,
+            "use_custom_marker": false,
+            "zoom": 3
+          },
+          "media": {
+            "caption": "",
+            "credit": "",
+            "url": ""
+          },
+          "text": {
+            "headline": "Connecting-dis-connecting",
+            "text": " The settlement has poor cellular coverage. We observed that people usually find spots within their house to get some network signal. In such a context, how do they connect to friends and family beyond the hamlet? As we walked around people's houses, we could hear people coming out of their houses to receive signal, trying to talk loudly into their phone etc. "
+          }
+        },
+        {
+          "date": "",
+          "location": {
+            "lat": 69.83962194067463,
+            "line": true,
+            "lon": -9.082032144069672,
+            "use_custom_marker": false,
+            "zoom": 3
+          },
+          "media": {
+            "caption": "",
+            "credit": "",
+            "url": ""
+          },
+          "text": {
+            "headline": "Following the Cows",
+            "text": "At around mid-day, we observed cows being herded by a dog at the tail-end of the herd. On following them, we reached in an open patch of land used for grazing cows. We realized that we could see most of the houses from here. There were open patches of grass, some fields and plantations."
+          }
+        },
+        {
+          "date": "",
+          "location": {
+            "lat": 34.30714385628804,
+            "line": true,
+            "lon": -1.23046875,
+            "use_custom_marker": false,
+            "zoom": 3
+          },
+          "media": {
+            "caption": "",
+            "credit": "",
+            "url": ""
+          },
+          "text": {
+            "headline": "The Watchwomen of Hara",
+            "text": "While roaming around in the hamlet, we were mostly greeted by and sometime curiously questioned by the women who live there. One of the women, who was grazing their cows had some questions for us about our work here, our organization and plans. As we started to speak people who live nearby (also mostly women) came out to listen in on the conversation.  On clarifying, they politely shared with us that they were vigilant on seeing two outsiders roaming about because of recent cases of theft that have happened in the community. In another instance that took place on the subsequent day, one woman, a mother of two young girls told us that if we came a few days earlier when the thefts were happening, nobody in the village would have spoken to us. "
+          }
+        }
+      ],
+      "zoomify": {
+        "attribution": "Stories from Hara; co-created with the residents of Hara",
+        "height": 7016,
+        "tolerance": 0.3,
+        "path": "https://arch8-xyz.github.io/Hara_Stories/",
+        "width": 4961
+      },
+      "map_background_color": "#ffffff"
+    }
+  }

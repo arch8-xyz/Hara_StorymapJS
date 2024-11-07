@@ -1,0 +1,29 @@
+.vco-storymap h2.vco-headline-title{
+    color: #78240a !important;
+    text-shadow: none !important;
+}
+
+.vco-text h2.vco-headline-title, .vco-text h2.vco-headline{
+    color: #78240a !important;
+}
+
+.vco-full-image-background .vco-text, .vco-full-color-background .vco-text, .vco-full-image-background .vco-text p, .vco-full-color-background .vco-text p{
+    color: darkslategrey !important;
+    text-shadow: none !important;
+}
+
+.vco-slide .vco-slide-calltoaction .vco-slide-calltoaction-button-text{
+    background-color: #78240a;
+}
+
+.vco-map .vco-mapmarker{
+    color: green;
+}
+
+.vco-map .vco-mapmarker-active{
+    color: #034003;
+}
+
+.vco-map .vco-mapimage-display .vco-mapmarker, .vco-map .vco-mapimage-display .vco-mapmarker-active{
+    display: block;
+}
