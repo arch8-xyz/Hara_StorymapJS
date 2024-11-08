@@ -61,7 +61,7 @@ html, body {
 <script type="text/javascript">
     var storymap;
     // var storymap_url = '//uploads.knightlab.com/storymapjs/5981313bec185c20bb420ed15ce7e3a2/hara-final/draft.json';
-    var storymap_url = 'draft.json';
+    var storymap_url = 'published.json';
 
     const urlParams = new URLSearchParams(window.location.search);
 
@@ -109,6 +109,7 @@ html, body {
     function buildStoryMap(data) {
         if (!data || !data.storymap) { return; }
         var options = {
+            
             script_path: getScriptPath(/storymap(-min)?\.js/),
             start_at_slide: getStartSlide()
         };

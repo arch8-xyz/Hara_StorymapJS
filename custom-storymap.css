@@ -28,3 +28,7 @@
 .vco-map .vco-mapimage-display .vco-mapmarker, .vco-map .vco-mapimage-display .vco-mapmarker-active{
     display: block;
 }
+
+.vco-media .vco-media-content-container .vco-media-content img{
+    box-shadow: none !important;
+}
